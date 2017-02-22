@@ -1,0 +1,2 @@
+# nuxt-phoenix
+NuxtJS + Phoenix
